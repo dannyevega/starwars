@@ -1,22 +1,8 @@
 body {
-  background-color: blue;
+  background-color: #F4EEEE;
 }
 
-.App {
-  max-width: 1000px;
-  margin: 0 auto;
-  height: 100vh;
-}
-
-.App .ant-list,
-h1 {
-  margin: 30px;
-}
-
-h1 {
-  color: white;
-}
-
+/* --- ANT DESIGN STYLES --- */
 .ant-empty-image,
 .ant-empty-description {
   display: none;
